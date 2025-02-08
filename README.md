@@ -1,5 +1,4 @@
-## https//Yoshingo.org
-
+## ᓚᘏᗢ
 <!--
 **Zy-Tran/Zy-Tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
